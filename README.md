@@ -36,7 +36,7 @@ multi-carrier transmission with per-subcarrier equalisation:
 ## Quick start
 
 ```bash
-git clone https://github.com/<your-username>/5g-ofdm-simulation
+git clone https://github.com/chethanadasari/5g-ofdm-simulation
 cd 5g-ofdm-simulation
 pip install -r requirements.txt
 
